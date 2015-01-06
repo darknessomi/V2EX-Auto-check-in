@@ -6,6 +6,7 @@
 // @downloadURL		https://raw.githubusercontent.com/darknessomi/V2EX-Auto-check-in/master/checkin.user.js
 // @icon			http://www.v2ex.com/static/apple-touch-icon.png
 // @author			darknessomi
+// @grant       	none
 // @include        http*://*.v2ex.com/*
 // @include        http*://v2ex.com/*
 // @version		   2015.1.6
