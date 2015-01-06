@@ -2,8 +2,8 @@
 // @name			V2EX自动领取每日签到登录奖励
 // @namespace		https://github.com/darknessomi/V2EX-Auto-check-in
 // @description		每天打开V2EX网站任意页面时自动领取签到的登陆奖励。
-// @updateURL		https://github.com/darknessomi/V2EX-Auto-check-in/checkin.js
-// @downloadURL		https://github.com/darknessomi/V2EX-Auto-check-in/checkin.js
+// @updateURL		https://raw.githubusercontent.com/darknessomi/V2EX-Auto-check-in/master/checkin.js
+// @downloadURL		https://raw.githubusercontent.com/darknessomi/V2EX-Auto-check-in/master/checkin.js
 // @icon			http://www.v2ex.com/static/apple-touch-icon.png
 // @author			darknessomi
 // @include        http*://*.v2ex.com/*
